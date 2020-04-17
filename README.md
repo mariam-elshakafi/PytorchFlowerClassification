@@ -14,3 +14,5 @@ or train.py can be used to generate a checkpoint first.
 This program has been tested using 2 architectures:
 densenet, alexnet
 Although the checkpoint attached is for densenet only.
+
+This program has been implemented as a part of Udacity's Pytorch Challenge.
